@@ -7,7 +7,7 @@
     <author name="Walmart Analytics" email="jonlipke@gmail.com" organization="Walmart Analytics" website="https://10ax.online.tableau.com"/>
     <min-api-version>1.4</min-api-version>
     <source-location>
-      <url>http://localhost:8765/walmart_extension.html</url>
+      <url>https://jonlipke.github.io/walmart-ai-analytics/walmart_extension.html</url>
     </source-location>
     <icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QMRAiUZYHeNmwAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAN0lEQVQ4y2NgGAWDHgD//7FQxsDA8B8I8dExMDDQoI0BAADg3R9bAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTAzLTE3VDAyOjM3OjI0KzAxOjAweAWLQwAAAABJRU5ErkJggg==</icon>
     <permissions>
