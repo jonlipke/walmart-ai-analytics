@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest manifest-version="0.1" xmlns="http://www.tableau.com/xml/extension_manifest">
+  <dashboard-extension id="com.walmart.analytics.ai" extension-version="1.0.0">
+    <default-locale>en_US</default-locale>
+    <name resource-id="name">Walmart AI Assistant</name>
+    <description>AI-powered analytics assistant for Walmart store data</description>
+    <author name="Walmart Analytics" email="jonlipke@gmail.com" organization="Walmart Analytics" website="https://10ax.online.tableau.com"/>
+    <min-api-version>1.4</min-api-version>
+    <source-location>
+      <url>http://localhost:8765/walmart_extension.html</url>
+    </source-location>
+    <icon>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4QMRAiUZYHeNmwAAAB1pVFh0Q29tbWVudAAAAAAAQ3JlYXRlZCB3aXRoIEdJTVBkLmUHAAAAN0lEQVQ4y2NgGAWDHgD//7FQxsDA8B8I8dExMDDQoI0BAADg3R9bAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDE3LTAzLTE3VDAyOjM3OjI0KzAxOjAweAWLQwAAAABJRU5ErkJggg==</icon>
+    <permissions>
+      <permission>full data</permission>
+    </permissions>
+  </dashboard-extension>
+</manifest>

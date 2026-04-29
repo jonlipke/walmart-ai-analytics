@@ -1,0 +1,13 @@
+anthropic
+fastapi
+uvicorn
+pandas
+numpy
+prophet
+xgboost
+scikit-learn
+plotly
+tableauserverclient
+pantab
+python-dotenv
+mcp
